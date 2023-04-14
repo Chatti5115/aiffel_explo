@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a21f634-a2f4-466d-a1f8-353ff1ff6d17" name="Changes" comment="" />
+    <list default="true" id="2a21f634-a2f4-466d-a1f8-353ff1ff6d17" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +29,11 @@
     &quot;last_opened_file_path&quot;: &quot;/home/doeun/Documents/aiffel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="aiffel" />
@@ -71,7 +76,7 @@
       <workItem from="1680600604992" duration="1602000" />
       <workItem from="1680602802227" duration="801000" />
       <workItem from="1680616388322" duration="647000" />
-      <workItem from="1681198410547" duration="615000" />
+      <workItem from="1681198410547" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1679035035730</created>
@@ -136,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680616421488</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changes">
+      <created>1681199328599</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681199328599</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +167,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dd" />
-    <option name="LAST_COMMIT_MESSAGE" value="dd" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/aiffel$main.coverage" NAME="main Coverage Results" MODIFIED="1678759104830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
