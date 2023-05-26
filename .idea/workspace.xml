@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a21f634-a2f4-466d-a1f8-353ff1ff6d17" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/[E-19]pix2pix_resolution.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[GD-01]resnet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/[GD-01]resnet.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,8 @@
       <workItem from="1682685866492" duration="596000" />
       <workItem from="1682791631962" duration="599000" />
       <workItem from="1683037739373" duration="599000" />
-      <workItem from="1684929198300" duration="1265000" />
+      <workItem from="1684929198300" duration="1276000" />
+      <workItem from="1685072195827" duration="2251000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1679035035730</created>
@@ -213,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684929220314</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Changes">
+      <created>1684937699926</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684937699926</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
